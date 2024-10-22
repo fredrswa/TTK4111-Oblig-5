@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1729591848.1615 "main.aux" "main.bbl" "main" 1729591851.44889 0
+["bibtex main"] 1729591848.1615 "main.aux" "main.bbl" "main" 1729592210.64414 0
   "./bibliography.bib" 1729003096.34753 1711 cb3d9aa1f599f30662763893fa911502 ""
-  "./main-blx.bib" 1729591850.24111 342 20d1170ef6c1d70c658d70e011e08dba ""
+  "./main-blx.bib" 1729592209.46627 342 20d1170ef6c1d70c658d70e011e08dba ""
   "C:/Program Files/MiKTeX/bibtex/bst/biblatex/biblatex.bst" 1711466047 65510 b1f696b0241395385f422f67543c37fd ""
-  "main.aux" 1729591850.2252 4547 8b9d5c059c5b2820aeed5c245943eed2 "pdflatex"
+  "main.aux" 1729592209.44626 4547 8b9d5c059c5b2820aeed5c245943eed2 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1729591848.57464 "c:/Users/fredr/OneDrive/Dokumenter/05 H2024/04 Reguleringsteknikk/oblig 5/TTK4111-Oblig-5/pdf/main.tex" "main.pdf" "main" 1729591851.44984 0
+["pdflatex"] 1729592207.7977 "c:/Users/fredr/OneDrive/Dokumenter/05 H2024/04 Reguleringsteknikk/oblig 5/TTK4111-Oblig-5/pdf/main.tex" "main.pdf" "main" 1729592210.64516 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1095.tfm" 993061956 3228 aacd2ac2d814480e4422ad7e830fd2d4 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecbx1200.tfm" 993061958 3200 b8d69bc738e5ef3e08cefeef3109ff56 ""
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/ecrm1095.tfm" 993062124 3172 eb6efaa83c6c52473a1c403f376eab0f ""
@@ -221,7 +221,7 @@
   "C:/Users/fredr/AppData/Roaming/MiKTeX/tex/latex/siunitx/siunitx.sty" 1724188344 333374 1193f642f21984b8bf9ce10004374614 ""
   "C:/Users/fredr/AppData/Roaming/MiKTeX/tex/latex/todonotes/todonotes.sty" 1704622898 21404 916e19cbd009b6d289c8194b313d3895 ""
   "C:/Users/fredr/AppData/Roaming/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
-  "c:/Users/fredr/OneDrive/Dokumenter/05 H2024/04 Reguleringsteknikk/oblig 5/TTK4111-Oblig-5/pdf/main.tex" 1729591841.64721 13298 1b2b6e93b53f25283bf98d790360270f ""
+  "c:/Users/fredr/OneDrive/Dokumenter/05 H2024/04 Reguleringsteknikk/oblig 5/TTK4111-Oblig-5/pdf/main.tex" 1729592207.18724 13298 1b2b6e93b53f25283bf98d790360270f ""
   "figures/oppg1_respons.png" 1729071147.76384 19411 70c2b2a077c39f58468cb60a7df2cf47 ""
   "figures/oppg2_bode.png" 1729019800.24315 34037 67f0db84bbf438f3b0727707a979bb3b ""
   "figures/oppg2_respons.png" 1729074448.07887 52176 1519176d29d25872b8efe5ee83fe0d0d ""
@@ -232,10 +232,10 @@
   "figures/oppg4_estimator2.png" 1729590050.18077 32804 4649391e525a5d7f3c2f544addf6e209 ""
   "figures/oppg4_estimator_reg.png" 1729590954.77103 12171 4e9db78f60e0dcbf0df1e2445d33f9cf ""
   "kyblab.sty" 1729591573.82202 2000 5469ba990a73f0d4dd85b4d6896395d1 ""
-  "main.aux" 1729591850.2252 4547 8b9d5c059c5b2820aeed5c245943eed2 "pdflatex"
+  "main.aux" 1729592209.44626 4547 8b9d5c059c5b2820aeed5c245943eed2 "pdflatex"
   "main.bbl" 1729591848.50627 5413 735350ac8ed7e807a3a035e02c8871f4 "bibtex main"
-  "main.out" 1729591850.2369 521 4bcf6e20217f14b8209636a805d70e28 "pdflatex"
-  "main.run.xml" 1729591850.24363 2522 7fe0cdb0c7d6659a963c32f9f12b7b60 "pdflatex"
+  "main.out" 1729592209.45926 521 4bcf6e20217f14b8209636a805d70e28 "pdflatex"
+  "main.run.xml" 1729592209.46926 2522 7fe0cdb0c7d6659a963c32f9f12b7b60 "pdflatex"
   (generated)
   "main-blx.bib"
   "main.aux"
