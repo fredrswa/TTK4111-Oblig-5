@@ -1,0 +1,10 @@
+hold on;
+grid on;
+%simout = sim("drone_observer.slx");
+xlim([0 105]);
+ylim([0 15]);
+xlabel("$p$", "Interpreter","latex");
+ylabel("$h$","Interpreter","latex");
+bane = simout.bane;
+plot(bane(:,1),bane(:,2));
+hold off;
